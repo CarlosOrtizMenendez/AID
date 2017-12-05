@@ -11,7 +11,7 @@ import javafx.scene.layout.AnchorPane;
 import javafx.scene.text.Font;
 
 
-public class Main extends Application {
+public class Main extends Application { 
 	
 	private AnchorPane rootLayout;	
 	public Stage primaryStage;
